@@ -1,0 +1,17 @@
+ConfigParser==5.3.0
+contextlib2==21.6.0
+Cython==0.29.35
+Django==4.2.1
+djangorestframework==3.14.0
+djangorestframework_simplejwt==4.6.0
+dl==0.1.0
+docutils==0.20.1
+HTMLParser==0.0.2
+jnius==1.1.0
+keyring==23.13.1
+lockfile==0.12.2
+mock==5.0.2
+pywin32==306
+trove_classifiers==2023.5.24
+truststore==0.7.0
+xmlrpclib==1.0.1
