@@ -49,3 +49,7 @@ tmp_email/
 .direnv
 .envrc
 .tool-versions
+myenv/Lib/site-packages/charset_normalizer/md__mypyc.cp311-win_amd64.pyd
+myenv/Lib/site-packages/charset_normalizer/md.cp311-win_amd64.pyd
+myenv/Lib/site-packages/PIL/_imaging.cp311-win_amd64.pyd
+myenv/Scripts/python.exe
