@@ -35,7 +35,7 @@ npm-debug.log
 
 # General
 /{{project_name}}-venv/
-/venv/
+/myenv/
 /env/
 /output/
 /cache/
